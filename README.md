@@ -25,6 +25,8 @@ I've **3 years** of Experience in the IT industry. I'm a certified [AWS Solution
 </p>
 
 ### My GitHub Stats
+<a href="http://www.github.com/PrashanthKusuma">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashanthKusuma&show_icons=true&locale=en&layout=compact" alt="PrashanthKusuma" /></p>
 </a>
 <a href="http://www.github.com/PrashanthKusuma">
   <img src="https://github-readme-stats.vercel.app/api?username=PrashanthKusuma" />
@@ -32,5 +34,3 @@ I've **3 years** of Experience in the IT industry. I'm a certified [AWS Solution
 <a href="http://www.github.com/PrashanthKusuma">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashanthKusuma" />
 </a>
-<a href="http://www.github.com/PrashanthKusuma">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashanthKusuma&show_icons=true&locale=en&layout=compact" alt="PrashanthKusuma" /></p>
