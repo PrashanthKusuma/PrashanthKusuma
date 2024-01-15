@@ -34,7 +34,6 @@ I've <strong>3 years</strong> of Experience in IT industry.
 <a href="http://www.github.com/PrashanthKusuma">
   <img src="https://github-readme-stats.vercel.app/api?username=PrashanthKusuma" />
 </a>
-<br/>
 <a href="http://www.github.com/PrashanthKusuma">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashanthKusuma" />
 </a>
