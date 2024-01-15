@@ -1,4 +1,4 @@
-![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQHTWHq_tdN…eta&t=-xKMkJothxvvJklnERWyRbPqjUaRKyQ9oLy3kXJ4zN4)
 # Hello, I'm [Prashanth Kusuma](https://prashanthkusuma.github.io/) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
