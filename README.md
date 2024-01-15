@@ -1,8 +1,9 @@
 # Hello, I'm [Prashanth Kusuma](https://prashanthkusuma.github.io/) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
--> I'm a <strong>Fullstack Developer</strong> who is passionate about learning new tech. I enjoy building web apps.
--> I've 3 years of Experience in IT industry.
+I'm a <strong>Fullstack Developer</strong> who is passionate about learning new tech. I enjoy building web apps.
+<br/>
+I've <strong>3 years</strong> of Experience in IT industry.
 
 - 🌱  I’m currently improving my Python&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="15" height="15" alt="Python" /> knowledge.
 - 🖥️  See my portfolio at [DevFolio](https://prashanthkusuma.github.io/)
