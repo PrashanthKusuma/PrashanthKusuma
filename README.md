@@ -16,7 +16,6 @@ I'm a Fullstack Developer. Here are a few things about me:
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expressjs-colored.svg" width="36" height="36" alt="Express.js" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github-dark.svg" width="36" height="36" alt="GitHub" />
 </p>
