@@ -4,7 +4,7 @@ I'm a **Fullstack Developer** who is passionate about learning new tech. I enjoy
 
 I've **3 years** of Experience in the IT industry. I'm a certified [AWS Solutions Architect Associate](https://www.credly.com/badges/504bcf74-aa16-4b2c-bd64-a2859d030bd9/linked_in?t=s51fbi).
 
-- 🌱 I’m currently improving my Python <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="13" height="13" alt="Python" /> knowledge.
+- 🌱 I’m currently improving my <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="13" height="13" alt="Python" /> Python knowledge.
 - 🖥️ See my portfolio at [Github Pages](https://prashanthkusuma.github.io/)
 - 🌐 My [LinkedIn](https://www.linkedin.com/in/prashanth-kusuma)
 - ✉️ You can contact me at [prashanthkusuma@outlook.com](mailto:prashanthkusuma@outlook.com)
