@@ -7,7 +7,7 @@ I've <strong>3 years</strong> of Experience in IT industry.
 <br/>
 <br/>
 - 🌱  I’m currently improving my Python&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="15" height="15" alt="Python" /> knowledge.
-- 🖥️  See my portfolio at [DevFolio](https://prashanthkusuma.github.io/)
+- 🖥️  See my portfolio at [Github Pages](https://prashanthkusuma.github.io/)
 - 🌐  My [LinkedIn](https://www.linkedin.com/in/prashanth-kusuma)
 - ✉️  You can contact me at [prashanthkusuma@outlook.com](mailto:prashanthkusuma@outlook.com)
 
