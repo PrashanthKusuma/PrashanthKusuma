@@ -3,7 +3,7 @@
 
 I'm a Fullstack Developer who is passionate about learning new tech. I enjoy building web apps, Here are a few things about me:
 
-- 🌱 I’m currently learning Python<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+- 🌱 I’m currently learning Python<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="10" height="10" alt="Python" />
 - 📫 How to reach me: [Your Email or Social Media Links]
 
 
