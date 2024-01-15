@@ -11,8 +11,7 @@ I've <strong>3 years</strong> of Experience in IT industry.
 - 🌐  My [LinkedIn](https://www.linkedin.com/in/prashanth-kusuma)
 - ✉️  You can contact me at [prashanthkusuma@outlook.com](mailto:prashanthkusuma@outlook.com)
 
-<br/>
-<br/>
+
 
 ### 🛠️ I've Worked on:
 
