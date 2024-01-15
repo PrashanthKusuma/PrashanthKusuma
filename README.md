@@ -12,4 +12,4 @@ I'm a [Your Role/Profession] based in [Your Location]. Here are a few things abo
 
 Thanks for stopping by!
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrashanthKusuma&show_icons=true)](https://github.com/PrashanthKusuma)
