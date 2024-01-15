@@ -5,7 +5,6 @@ I'm a <strong>Fullstack Developer</strong> who is passionate about learning new 
 <br/>
 I've <strong>3 years</strong> of Experience in IT industry.
 <br/>
-<br/>
 - 🌱  I’m currently improving my Python&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="15" height="15" alt="Python" /> knowledge.
 - 🖥️  See my portfolio at [Github Pages](https://prashanthkusuma.github.io/)
 - 🌐  My [LinkedIn](https://www.linkedin.com/in/prashanth-kusuma)
