@@ -1,14 +1,16 @@
 # Hello, I'm [Prashanth Kusuma](https://prashanthkusuma.github.io/) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
-I'm a Fullstack Developer who is passionate about learning new tech. I enjoy building web apps, Here are a few things about me:
+I'm a Fullstack Developer who is passionate about learning new tech. I enjoy building web apps.
 
-- 🌱 I’m currently learning Python&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="15" height="15" alt="Python" />
-- 📫 How to reach me: [Your Email or Social Media Links]
+- 🌱  I’m currently learning Python&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="15" height="15" alt="Python" />
+- 🖥️  See my portfolio at [DevFolio](https://prashanthkusuma.github.io/)
+- 🌐  My [LinkedIn](https://www.linkedin.com/in/prashanth-kusuma)
+- ✉️  You can contact me at [prashanthkusuma@outlook.com](mailto:prashanthkusuma@outlook.com)
 
 
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />&nbsp;
@@ -23,7 +25,7 @@ I'm a Fullstack Developer who is passionate about learning new tech. I enjoy bui
   <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub"/>
 </p>
 
-Thanks for stopping by!
+
 ### My GitHub Stats
 
 <a href="http://www.github.com/PrashanthKusuma">
