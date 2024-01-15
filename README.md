@@ -17,18 +17,8 @@ I'm a Fullstack Developer. Here are a few things about me:
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expressjs-colored.svg" width="36" height="36" alt="Express.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ejs-colored.svg" width="36" height="36" alt="EJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rest-api-colored.svg" width="36" height="36" alt="REST API" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongoose-colored.svg" width="36" height="36" alt="Mongoose" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jenkins-colored.svg" width="36" height="36" alt="Jenkins" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gitlab-colored.svg" width="36" height="36" alt="GitLab" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" height="36" alt="Postman" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/soapui-colored.svg" width="36" height="36" alt="SoapUI" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/selenium-colored.svg" width="36" height="36" alt="Selenium" />
+  <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github-dark.svg" width="36" height="36" alt="GitHub" />
 </p>
 
 Thanks for stopping by!
