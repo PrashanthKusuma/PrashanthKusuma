@@ -3,7 +3,7 @@
 
 I'm a Fullstack Developer who is passionate about learning new tech. I enjoy building web apps, Here are a few things about me:
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 - 📫 How to reach me: [Your Email or Social Media Links]
 
 
@@ -20,11 +20,7 @@ I'm a Fullstack Developer who is passionate about learning new tech. I enjoy bui
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" style="filter: drop-shadow(1px 0 0 white)
-drop-shadow(0 1px 0 white)
-        drop-shadow(-1px 0 0 white) 
-        drop-shadow(0 -1px 0 white);
-        "/>
+  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub"/>
 </p>
 
 Thanks for stopping by!
