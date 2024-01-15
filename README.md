@@ -10,7 +10,7 @@ I'm a Fullstack Developer who is passionate about learning new tech. I enjoy bui
 
 
 
-### 🛠️ My Tech Stack
+### 🛠️ I've Worked on:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />&nbsp;
