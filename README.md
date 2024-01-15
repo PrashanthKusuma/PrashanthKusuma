@@ -29,12 +29,12 @@ I've <strong>3 years</strong> of Experience in IT industry.
 
 ### My GitHub Stats
 <a href="http://www.github.com/PrashanthKusuma">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush362&show_icons=true&locale=en&layout=compact" alt="piyush362" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashanthKusuma&show_icons=true&locale=en&layout=compact" alt="PrashanthKusuma" /></p>
 </a>
 <a href="http://www.github.com/PrashanthKusuma">
   <img src="https://github-readme-stats.vercel.app/api?username=PrashanthKusuma" />
 </a>
-<br/>
+<br/><br/>
 <a href="http://www.github.com/PrashanthKusuma">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashanthKusuma" />
 </a>
