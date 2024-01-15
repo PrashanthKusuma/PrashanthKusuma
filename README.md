@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, I'm Prashanth Kusuma 👋
 
-<!--
-**PrashanthKusuma/PrashanthKusuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Your Role/Profession] based in [Your Location]. Here are a few things about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Current Project]
+- 🌱 I’m currently learning [Current Learning Focus]
+- 👯 I’m looking to collaborate on [Project Ideas]
+- 💬 Ask me about [Your Expertise]
+- 📫 How to reach me: [Your Email or Social Media Links]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [Interesting Fact about Yourself]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by!
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)](https://github.com/your-username)
